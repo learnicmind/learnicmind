@@ -1,4 +1,4 @@
-### Hi My name is Ariful Islam Razu
+### Hi, My name is Ariful Islam Razu
 #### I am a Front end Developer
 ![Front end Developer](https://i.ibb.co/C1kJGz9/Github-cover-for-Razu.png)
 
