@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Ariful Islam Razu
-#### Front end Developer
+#### I am a Front end Developer
 ![Front end Developer](https://i.ibb.co/C1kJGz9/Github-cover-for-Razu.png)
 
 I'm a passionate and dedicated front-end developer with a love for creating captivating and user-friendly web experiences. With expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, and the MERN stack, I have honed my skills to craft dynamic and responsive websites. My goal is to merge creativity and technical proficiency to bring ideas to life and deliver seamless digital solutions. With a keen eye for detail and a commitment to delivering high-quality work, I strive to exceed expectations and make a lasting impact. I invite you to explore my projects and get a glimpse of my commitment to excellence in web development. Let's collaborate and create something extraordinary together!
